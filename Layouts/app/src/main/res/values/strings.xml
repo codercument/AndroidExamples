@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Layouts</string>
+
+    <string-array name="examples">
+        <item>Linear Layout</item>
+        <item>Relative Layout</item>
+        <item>Absolute Layout</item>
+        <item>Grid Layout</item>
+        <item>Table Layout</item>
+        <item>Web View</item>
+    </string-array>
+
+
+
+
+
+
+</resources>
