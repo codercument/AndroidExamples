@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContexMenu</string>
+    <string-array name="list_items">
+        <item>Ercüment TÜRK</item>
+        <item>XXXXXXXXX</item>
+        <item>YYYYYYYYY</item>
+        <item>ZZZZZZZZZ</item>
+        <item>QQQQQQQQQ</item>
+    </string-array>
+</resources>
